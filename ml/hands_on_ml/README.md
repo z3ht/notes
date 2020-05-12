@@ -7,7 +7,6 @@ By: Aurelien Geron
 The main repository holding example code, exercises, and other useful information can be found
 at: https://github.com/ageron/handson-ml2
 
-A copy of the textbook can be purchased from Amazon here: 
-https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1491962291
+A copy of the textbook can be purchased from Amazon here: https://www.amazon.com/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1492032646/
 
 **THESE ARE ONLY MY NOTES. I HAD NO PART IN THE CREATION OF THIS TEXTBOOK.**
